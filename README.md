@@ -14,10 +14,10 @@
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Jalandhar Punjab_India()
 	
 	def Ambitions():
-		BecomeSoftwareEngineer()
+		B.Tech ComputerEngineer()
 		FinishMyProjects()
 	
  ```
